@@ -1,0 +1,4 @@
+dask[distributed]
+geopandas
+git+https://github.com/Deltares/GEOLib-Plus
+dask-geopandas
